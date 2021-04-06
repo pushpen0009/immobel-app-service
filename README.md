@@ -1,5 +1,5 @@
 ## Overview
-This is spring boot application for following modules. For the sake of simplicity, in this app itself, I have added both payment-terms-service and invoice-service.
+This is spring boot application for following modules.
 * Invoice
 * Payment Term
 
